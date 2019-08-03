@@ -1,0 +1,1 @@
+{"version":3,"file":"styles.css","sources":["styles.scss"],"sourcesContent":["$color:firebrick;\nbody{\n    background: $color;\n\n} \n"],"names":[],"mappings":"AACA,AAAA,IAAI,CAAA;EACA,UAAU,EAFP,SAAS,GAIf"}
